@@ -19,6 +19,7 @@ With jquery, set all the coordinates that make up the edges of the 26 letters in
 ![2](images/66341727347426_.pic.jpg)
 
 How to help:  bind random but repetitive motion animations or sound effects to different letters to form an aesthetic abstract art animation
+I can bind randomized but repetitive motion or sound effects to different letters, or arrange the letters according to a certain pattern or compose dynamic effects to form an abstract art animation with an aesthetic sense.
 
 
 
