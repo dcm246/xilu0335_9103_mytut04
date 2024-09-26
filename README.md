@@ -18,7 +18,6 @@ Using jquery, the A-Z,26 letters are bound to keydown keypressed keyup events, a
 With jquery, set all the coordinates that make up the edges of the 26 letters in upper and lower case in advance, then fill them in with random keyboard symbols
 ![2](images/66341727347426_.pic.jpg)
 
-How to help:  bind random but repetitive motion animations or sound effects to different letters to form an aesthetic abstract art animation
 I can bind randomized but repetitive motion or sound effects to different letters, or arrange the letters according to a certain pattern or compose dynamic effects to form an abstract art animation with an aesthetic sense.
 
 
